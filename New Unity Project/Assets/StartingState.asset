@@ -12,4 +12,29 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6879b613c4ebc64fb68c7d5e4a635fd, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: '
+
+    festers.Everywhere.Armed mostly with gas-powered rocks flingers.
+
+    At
+    least 10 ofthem guarding the hangar dorr.typical.
+
+    
+
+    could try punching
+    my way though.Or sneaking the long way to the emergency exit.
+
+    
+
+    
+
+    What
+    should i do ?
+
+    1.Take them head on - rush to 20 guards.
+
+    2. Sneak my
+    way through emergency exit.'
+  nextState:
+  - {fileID: 11400000, guid: 364529a287bf0444eb21333110891076, type: 2}
+  - {fileID: 11400000, guid: 8cdc9e4378fc2d84780f857c028c76ee, type: 2}
